@@ -20,14 +20,3 @@ demo/try.py.
 11.	Uninstall vs2022, install 2019,
 12.	Install detectron2
 13.	Create try.py, using this to get webcam, run detection and output by using matplotlib in real time.
-
-
-
-
-
-
-
-
-
-Chunyuan Shen
-801322013
